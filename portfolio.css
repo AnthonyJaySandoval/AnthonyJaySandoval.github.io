@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+    margin:  0;
+    padding: 0;
+}
+
+#nav-bar  {
+    background-color: gold;
+    font-family: 'Bree Serif', serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+     text-decoration-line: none;
+}
+
+p {
+    color: gold;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+h1 {
+    color: gold;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+}
+
+.toplink {
+    color: black;
+    margin-left: 180px;
+    font-size: 20px;
+}
+
+.mar {
+    margin-left: 165px;
+}
+
+.mar2 {
+    margin-left: 300px;
+}
+
+.mar3 {
+    margin-left: 440px;
+}
+
+img {
+    margin-left: 200px;
+    border-radius: 25px;
+}
+
+.otherlink {
+    color: gold;
+}
+
+.cut {
+    clip: rect(0px, 158px, 717px, 1118px);
+}
+
+a {
+    text-decoration-line: none;
+}
